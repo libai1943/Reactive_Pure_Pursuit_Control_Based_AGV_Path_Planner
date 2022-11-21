@@ -1,5 +1,6 @@
 ## Reactive Pure Pursuit Control Based AGV Path Planner 
 This repository implemented a fast path planner for an autonomous ground vehicle in cluttered environments.
+Since the original dataset which contains 1000 cases is too large, it is divided into 10 datasets. However, you can still process directly with these 1000 cases by running RunMe.py. 
 ### Requirement
 
 *   Python 3.6 or above
